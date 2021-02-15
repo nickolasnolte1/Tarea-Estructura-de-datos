@@ -7,7 +7,7 @@ class ejerciciochars {
     {
          
         int count = 0;
-        System.out.println("Enter a sentence :");
+        System.out.println("Ingrese un texto de Lorem Ipsum :");
         Scanner sc = new Scanner(System.in);
         
  
